@@ -1,0 +1,6 @@
+{
+    "QTH_PRODUCT_KEY": "pe17FE",
+    "QTH_PRODUCT_SECRET": "U05UY3Z0Tzh6czVl",
+    "QTH_SERVER": "mqtt://iot-south.acceleronix.io:1883",
+    "SLEEP_INTERVAL_SECONDS": 360
+}
